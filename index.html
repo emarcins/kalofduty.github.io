@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kał of Duty</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="welcome-modal" data-welcome-modal>
+      <div class="welcome-modal__content">
+        <p class="welcome-modal__text credits">
+          emarcins presents
+        </p>
+        <p class="welcome-modal__text title">
+          Nocne Radio: <span class="tittle-word">Kał</span> of Duty
+        </p>
+        <p class="welcome-modal__text description">
+          Zdobądź jak najlepszy wynik sterując (strzałki na klawiaturze "PRAWO" i "LEWO") pikselowym Etamem, strzelając (przycisk "SPACJA") z siatek pewnego znanego dyskontu wprost do przeciwników.
+        </p>
+        <button class="welcome-modal__button" data-welcome-button>Zagraj!</button>
+      </div>
+    </div>
+    <div class="container" data-container>
+      <div class="spaceship" data-spaceship></div>
+      <section class="information">
+        <article class="information__content" data-score>Wynik: 0</article>
+        <article class="information__content" data-lives>Życia</article>
+      </section>
+    </div>
+    <div class="modal hide" data-modal>
+      <div class="modal__content">
+        <p class="modal__text" data-score-info>
+          
+        </p>
+        <button class="modal__button" data-button>Nowa Gra</button>
+      </div>
+    </div>
+    <audio data-audio-start>
+      <source src="./audio/startGame.mp3" type="audio/mpeg">
+    </audio>
+    <audio data-audio-end>
+      <source src="./audio/endGame.mp3" type="audio/mpeg">
+    </audio>
+    
+    <script type="module" src="./js/Game.js"></script>
+  </body>
+</html>
