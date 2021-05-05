@@ -1,5 +1,6 @@
 # kalofduty.github.io
-## My second miniGame for NocneRadio.pl 📻
+My second miniGame for NocneRadio.pl 📻
+<br />
 
 # What's this about?
 There's a small game which is very similar to old retro games like Galaxian.
@@ -19,6 +20,7 @@ You have only 3 lives. The goal of the game is to gain as much points as it poss
 <br />
 # Try the app!
 **Feel free to play and have fun!** 🎮
+<br />
 [Link to the Kal of duty GAME](https://elegant-hoover-5286e5.netlify.app/) 
 
 
