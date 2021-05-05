@@ -3,7 +3,7 @@ My second miniGame for NocneRadio.pl 📻
 <br />
 
 # What's this about?
-There's a small game which is very similar to old retro games like Galaxian.
+There's a small game which is very similar to old retro games like Galaxian. 🖥️
 <br />
 # Language and tools
 Game was coding in html, css and vanilla.js. The app *works only on desktop (without Safari support).*
