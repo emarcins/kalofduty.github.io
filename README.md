@@ -1,4 +1,4 @@
-# kalofduty.github.io
+# Kał of duty GAME
 My second miniGame for NocneRadio.pl 📻
 <br />
 
