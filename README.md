@@ -6,7 +6,7 @@ My second miniGame for NocneRadio.pl 📻
 There's a small game which is very similar to old retro games like Galaxian. 🖥️
 <br />
 # Language and tools
-Game was coding in html, css and vanilla.js. The app *works only on desktop (without Safari support).*
+The Game was coding in html, css and vanilla.js. The app *works only on desktop (without Safari support).*
 <br />
 The code is written with using class (OOP) in a few files which are in folder "js".
 There's also a css stack with a few animation.
