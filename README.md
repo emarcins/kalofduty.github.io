@@ -12,7 +12,8 @@ The code is written with using class (OOP) in a few files which are in folder "j
 There's also a css stack with a few animation.
 <br />
 # How it work?
-The size of the window refers to size of the game. Hint: if you shrink the browser window game will be easier ;) 
+The size of the browsers window refers to size of the game. Hint: if you shrink the browser window game will be easier ;) 
+<br />
 The language of the game is Polish. Use arrows (left and right) on your keyboard to move character (one of listener of NocneRadio).
 There is a two kinds of enemy. Bigger objects are stronger and you need 3 missiles to destroy them. You can destroy (hit spacebar) smaller objects using just a 1 missile. 
 Your character has an infinite number of bullets.
