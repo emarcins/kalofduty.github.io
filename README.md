@@ -14,7 +14,7 @@ There's also a css stack with a few animation.
 # How it work?
 The size of the window refers to size of the game. Hint: if you shrink the browser window game will be easier ;) 
 The language of the game is Polish. Use arrows (left and right) on your keyboard to move character (one of listener of NocneRadio).
-There is a two kinds of enemy. Bigger objects are stronger and you need 3 missiles to destroy them. You can destroy smaller objects using just a 1 missile.
+There is a two kinds of enemy. Bigger objects are stronger and you need 3 missiles to destroy them. You can destroy (hit spacebar) smaller objects using just a 1 missile. 
 Your character has an infinite number of bullets.
 You have only 3 lives. The goal of the game is to gain as much points as it possible.
 <br />
