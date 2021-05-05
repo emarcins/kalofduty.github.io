@@ -11,7 +11,7 @@ The Game was coding in html, css and vanilla.js. The app *works only on desktop 
 The code is written with using class (OOP) in a few files which are in folder "js".
 There's also a css stack with a few animation.
 <br />
-# How it work?
+# How it works?
 The size of the browsers window refers to size of the game. Hint: if you shrink the browser window game will be easier ;) 
 <br />
 The language of the game is Polish. Use arrows (left and right) on your keyboard to move character (one of listener of NocneRadio).
